@@ -63,7 +63,7 @@ way to master something is to explain it clearly.
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/skanda-udupa-868833347)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/skanda-udupa-868833347)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/skandaudupa)
 
 ---
